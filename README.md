@@ -4,6 +4,7 @@
 <div id="marker" markdown="1">
 
 * [automate.io](https://automate.io) - (cloud) Integrate your cloud applications. Automate marketing, sales and business processes.
+* [Beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝 Allows you to create your own agents that perform automated tasks triggered by events and filters.
 * [Digdag](https://github.com/treasure-data/digdag) - (local app) Simple, open source, multi-cloud workflow engine.
 * [Gleam](https://github.com/chrislusf/gleam) - (local app) High performance and efficient distributed execution system, simple, generic, flexible and easy to customize.
 * [Huginn](https://github.com/huginn/huginn) - (local app) Create agents that monitor and act on your behalf. A hackable version of IFTTT or Zapier on your own server.
