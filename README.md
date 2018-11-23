@@ -4,6 +4,7 @@
 <div id="marker" markdown="1">
 
 * [Airflow](https://airflow.apache.org) - A platform to programmatically author, schedule and monitor workflows as directed acyclic graphs (DAGs) of tasks.
+* [Apple Shortcuts](https://itunes.apple.com/us/app/shortcuts/id915249334) - (iOs app) Quick way to get things done with your apps with just a tap, or by asking Siri. The Shortcuts app enables you to create personal shortcuts with multiple steps from your favorite apps.
 * [automate.io](https://automate.io) - (cloud) Integrate your cloud applications. Automate marketing, sales and business processes.
 * [Beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝 Allows you to create your own agents that perform automated tasks triggered by events and filters.
 * [Digdag](https://github.com/treasure-data/digdag) - (local app) Simple, open source, multi-cloud workflow engine.
@@ -11,6 +12,7 @@
 * [Huginn](https://github.com/huginn/huginn) - (local app) Create agents that monitor and act on your behalf. A hackable version of IFTTT or Zapier on your own server.
 * [IFTTT](https://ifttt.com) - (cloud) IFTTT is a free platform that helps you do more with all your apps and devices, including Facebook, Twitter, Dropbox, Evernote, Nest, Fitbit, Amazon Alexa, and Gmail.
 * [Integromat](https://integromat.com) - (cloud) Online automation platform. Beautifully-crafted editor.
+* [Microsoft Flow](https://flow.microsoft.com) - (cloud) Online workflow service that automates events (known as workflows) across the most common apps and services.
 * [Parabola](https://parabola.io) - (cloud) Visually oriented way of designing a workflow where users can piece together a complex work problem in a kind of flowchart piece by piece.
 * [RoboTask](https://robotask.com) - (windows app) Automate repetitive tasks on your Windows PC, ranging from simply launching applications, to checking email, moving or backing up files to uploading or downloading, sending email and much more.
 * [Runnerty](https://github.com/runnerty/runnerty) - (local app) Orchestrator of processes, open source tool which allows you to manage and plan workflows and processes.
