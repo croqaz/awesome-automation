@@ -1,7 +1,8 @@
 
 # Awesome automation list
 
-<div id="marker" markdown="1">
+<!-- TwoFold sort lines -->
+<sortLines>
 
 * [Airflow](https://airflow.apache.org) - A platform to programmatically author, schedule and monitor workflows as directed acyclic graphs (DAGs) of tasks.
 * [Apple Shortcuts](https://itunes.apple.com/us/app/shortcuts/id915249334) - (iOs app) Quick way to get things done with your apps with just a tap, or by asking Siri. The Shortcuts app enables you to create personal shortcuts with multiple steps from your favorite apps.
@@ -20,4 +21,10 @@
 * [WinAutomation](http://winautomation.com) - (windows app) Automate any desktop application, automate your web processes, Macros, Task Scheduler, Email automation, Excel automation, Files & Folders automation, etc.
 * [Zapier](https://zapier.com) - (cloud) Easy automation for busy people. Zapier moves info between web apps automatically, so you can focus on your most important work. More than 1,000 web apps working together.
 
-</div>
+</sortLines>
+
+-----
+
+## License
+
+Unlicensed aka Public Domain. See [UNLICENSE](/LICENSE) for details.
