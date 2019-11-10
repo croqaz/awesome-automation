@@ -1,7 +1,7 @@
 
-# Awesome automation list
+# Awesome automation list ![Awesome list](https://badgen.net/badge/icon/awesome?icon=awesome&color=purple&label)
 
-<!-- TwoFold sort lines -->
+<!-- TwoFold.js sort lines -->
 <sortLines>
 
 * [Airflow](https://airflow.apache.org) - A platform to programmatically author, schedule and monitor workflows as directed acyclic graphs (DAGs) of tasks.
@@ -13,6 +13,7 @@
 * [Huginn](https://github.com/huginn/huginn) - (local app) Create agents that monitor and act on your behalf. A hackable version of IFTTT or Zapier on your own server.
 * [IFTTT](https://ifttt.com) - (cloud) IFTTT is a free platform that helps you do more with all your apps and devices, including Facebook, Twitter, Dropbox, Evernote, Nest, Fitbit, Amazon Alexa, and Gmail.
 * [Integromat](https://integromat.com) - (cloud) Online automation platform. Beautifully-crafted editor.
+* [Leprechaun](https://github.com/kilgaloon/leprechaun) - Tool where you can schedule your recurring tasks to be performed over and over. There are 3 types of recipes: scheduled, hooked and cron scheduling jobs.
 * [Microsoft Flow](https://flow.microsoft.com) - (cloud) Online workflow service that automates events (known as workflows) across the most common apps and services.
 * [Parabola](https://parabola.io) - (cloud) Visually oriented way of designing a workflow where users can piece together a complex work problem in a kind of flowchart piece by piece.
 * [RoboTask](https://robotask.com) - (windows app) Automate repetitive tasks on your Windows PC, ranging from simply launching applications, to checking email, moving or backing up files to uploading or downloading, sending email and much more.
