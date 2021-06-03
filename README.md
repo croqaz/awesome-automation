@@ -1,8 +1,6 @@
 
 # Awesome automation list ![Awesome list](https://badgen.net/badge/icon/awesome?icon=awesome&color=purple&label)
 
-<!-- TwoFold.js sort lines -->
-<sortLines>
 
 * [Airflow](https://airflow.apache.org) - A platform to programmatically author, schedule and monitor workflows as directed acyclic graphs (DAGs) of tasks.
 * [Apple Shortcuts](https://itunes.apple.com/us/app/shortcuts/id915249334) - (iOs app) Quick way to get things done with your apps with just a tap, or by asking Siri. The Shortcuts app enables you to create personal shortcuts with multiple steps from your favorite apps.
@@ -19,11 +17,11 @@
 * [RoboTask](https://robotask.com) - (windows app) Automate repetitive tasks on your Windows PC, ranging from simply launching applications, to checking email, moving or backing up files to uploading or downloading, sending email and much more.
 * [Runnerty](https://github.com/runnerty/runnerty) - (local app) Orchestrator of processes, open source tool which allows you to manage and plan workflows and processes.
 * [Stamplay](https://stamplay.com) - (cloud) Automate your business. Eliminate manual work.
+* [Tideflow](https://github.com/tideflow-io/tideflow) - (local, cloud) Realtime, open source workflows execution and monitorization web application. As easy as drag & drop.
 * [WinAutomation](http://winautomation.com) - (windows app) Automate any desktop application, automate your web processes, Macros, Task Scheduler, Email automation, Excel automation, Files & Folders automation, etc.
 * [Zapier](https://zapier.com) - (cloud) Easy automation for busy people. Zapier moves info between web apps automatically, so you can focus on your most important work. More than 1,000 web apps working together.
 * [zzBots](https://www.zzbots.com) - (cloud) Let Our Software Bots Save You Time.
 
-</sortLines>
 
 -----
 
