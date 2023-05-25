@@ -13,6 +13,7 @@
 * [Integromat](https://integromat.com) - (cloud) Online automation platform. Beautifully-crafted editor.
 * [Leprechaun](https://github.com/kilgaloon/leprechaun) - Tool where you can schedule your recurring tasks to be performed over and over. There are 3 types of recipes: scheduled, hooked and cron scheduling jobs.
 * [Microsoft Flow](https://flow.microsoft.com) - (cloud) Online workflow service that automates events (known as workflows) across the most common apps and services.
+* [n8n](https://n8n.io) - Extendable workflow automation. Sync data between 200+ apps. Design powerful workflows. Create custom integrations. (local & cloud)
 * [Parabola](https://parabola.io) - (cloud) Visually oriented way of designing a workflow where users can piece together a complex work problem in a kind of flowchart piece by piece.
 * [RoboTask](https://robotask.com) - (windows app) Automate repetitive tasks on your Windows PC, ranging from simply launching applications, to checking email, moving or backing up files to uploading or downloading, sending email and much more.
 * [Runnerty](https://github.com/runnerty/runnerty) - (local app) Orchestrator of processes, open source tool which allows you to manage and plan workflows and processes.
