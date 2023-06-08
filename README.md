@@ -22,7 +22,7 @@
 * [WinAutomation](http://winautomation.com) - (windows app) Automate any desktop application, automate your web processes, Macros, Task Scheduler, Email automation, Excel automation, Files & Folders automation, etc.
 * [Zapier](https://zapier.com) - (cloud) Easy automation for busy people. Zapier moves info between web apps automatically, so you can focus on your most important work. More than 1,000 web apps working together.
 * [zzBots](https://www.zzbots.com) - (cloud) Let Our Software Bots Save You Time.
-
+* [Outfunnel](https://outfunnel.com) - (cloud) Keep customer data in sync across sales and marketing tools
 
 -----
 
