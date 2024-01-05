@@ -2,6 +2,7 @@
 # Awesome automation list ![Awesome list](https://badgen.net/badge/icon/awesome?icon=awesome&color=purple&label)
 
 
+* [Activepieces](https://www.activepieces.com/) - Self-hosted open-source no-code business automation tool.
 * [Airflow](https://airflow.apache.org) - A platform to programmatically author, schedule and monitor workflows as directed acyclic graphs (DAGs) of tasks.
 * [Apple Shortcuts](https://itunes.apple.com/us/app/shortcuts/id915249334) - (iOs app) Quick way to get things done with your apps with just a tap, or by asking Siri. The Shortcuts app enables you to create personal shortcuts with multiple steps from your favorite apps.
 * [automate.io](https://automate.io) - (cloud) Integrate your cloud applications. Automate marketing, sales and business processes.
